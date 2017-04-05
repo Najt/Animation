@@ -1,7 +1,7 @@
 ﻿// <copyright file="Animation.cs" company="GamerCats Studios">
 //     GamerCats Studios All rights reserved
 // </copyright>
-// <author>Duna Gergely Endre</author>
+// <author>Duna Gergely Endre/Najt</author>
 namespace Game1
 {
     using Microsoft.Xna.Framework;
